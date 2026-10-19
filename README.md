@@ -47,6 +47,17 @@
 
 ---
 
+
+## 💚 My LeetCode Journey
+
+<p align="center">
+  <a href="https://leetcode.com/u/nishikajaiswal07/">
+    <img src="https://leetcard.jacoblin.cool/nishikajaiswal07?theme=forest&ext=heatmap&animation=true" alt="Nishika's Animated LeetCode Stats" />
+  </a>
+</p>
+
+
+
 <div align="center">
   <h3> Thanks for visiting my profile!</h3>
 </div>
