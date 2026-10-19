@@ -1,6 +1,10 @@
 
 <div align="center">
 
+<p align="center">
+  <img src="./assets/nishika-snake.gif" alt="Nishika animated pixel name" width="700" />
+</p>
+
 # Hey, I'm Nishika Jaiswal! 
 
 ### B.Tech CSE Student | Java | DSA | Web Development
